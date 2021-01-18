@@ -1,1 +1,1 @@
-Adaptive template of online store: 
+Adaptive template of online store: https://vasmal.github.io/logo/
